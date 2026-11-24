@@ -1,6 +1,6 @@
-# ppm_sesi4
+# ppm_sesi4 — Nusa Bookstore
 
-A new Flutter project.
+Aplikasi katalog buku sederhana dengan State Management **Provider** (`ChangeNotifier`, `MultiProvider`, `Consumer`, `context.watch`, dan `context.read`), fitur keranjang belanja, checkout, serta dukungan Light Mode dan Dark Mode.
 
 ## Getting Started
 
@@ -15,3 +15,15 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+### Badge Jumlah Keranjang
+![Badge Keranjang](../screenshots/badge.png)
+
+### Dark Mode
+![Dark Mode](../screenshots/dark_mode.png)
+
+### Halaman Keranjang & Total Harga
+![Keranjang Belanja](../screenshots/cart.png)
+
+### SnackBar Setelah Checkout
+![SnackBar Checkout](../screenshots/checkout_snackbar.png)
